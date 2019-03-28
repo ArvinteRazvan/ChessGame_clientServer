@@ -1,5 +1,5 @@
 # ChessGame_clientServer
-This was done as homework for the Networks course and the explenations were written in Romanian.
+This was done as homework for the Networks course and the explenations were written in Romanian.  
 The way it works is:  
 1) The server wait for 2 clients to connect to it.  
 2) First client connects and waits
@@ -9,5 +9,5 @@ The way it works is:
 6) The server validates their move and give turns to each player.
 7) When the game is over the server closes the comunication with the client successfully.
 
-*) If one of the clients leave, the other one waits, or has to also leave.
+*) If one of the clients leave, the other one waits, or has to also leave.  
 Page of the course: https://profs.info.uaic.ro/~computernetworks/cursullaboratorul.php
